@@ -13,10 +13,8 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
 If you detected exploit, please create report at reports
+## Virus detection 
+If you detecting virus:
+1. Create report at reports
+2. Report user to GitHub.
