@@ -1,0 +1,2 @@
+Bu sistem için özel bir lisans mevcuttur.
+Buradaki dosyaları kopyabilirsiniz, fakat DOĞRUDAN bu dosyaları dağıtmanıza ve bu klasör içindekileri başka bir yere kopyalamadan değiştirilemez.
